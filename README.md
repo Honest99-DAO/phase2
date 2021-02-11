@@ -7,7 +7,7 @@ The online casino owned by its community
 
 ##### NINE Token
 
-The hearth of Casino 'Honest 99' DAO is `NineToken` contract which is based on a custom version of `ERC20` - 
+The heart of Casino 'Honest 99' DAO is `NineToken` contract which is based on a custom version of `ERC20` - 
 `ERC20WithHistory`. This contract provides us with the unique feature - it is aware of history of balances of
 its accounts. This enables other contracts to verify the possession of tokens by any account
 at any specific moment in the past.
